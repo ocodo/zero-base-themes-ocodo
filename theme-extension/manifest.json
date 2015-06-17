@@ -1,0 +1,13 @@
+{
+  "name": "DevTools Theme: Ocodo",
+  "version": "0.1.0",
+  "description": "A darkened theme for Devtools.",
+  "devtools_page": "devtools.html",
+  "homepage_url": "https://github.com/ocodo/chrome-devtools-ocodo-theme",
+  "manifest_version": 3,
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  }
+}
